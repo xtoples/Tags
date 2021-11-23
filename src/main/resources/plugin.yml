@@ -1,0 +1,9 @@
+name: Tags
+version: ${project.version}
+main: ${project.groupId}.tags.Tags
+author: Toples
+commands:
+  tags:
+    aliases: [tags, tags, label]
+  tag:
+    aliases: [tags, labels]

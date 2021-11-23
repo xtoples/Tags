@@ -1,0 +1,10 @@
+# Tags by Toples v1.0.0
+
+# ( Mongo Database )
+mongodb:
+  uri: ""
+  database: "tags"
+
+# supports placeholders
+# NOTE: PLACEHOLDERS ONLY WORK IF THEY EXIST.
+chat-format: "<tags> <player>&f: <message>"
